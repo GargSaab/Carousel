@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # react-featured-carousel
-A customizable and feature-rich carousel component for React.
-=======
+
+# A customizable and feature-rich carousel component for React.
+
 # React Featured Carousel
 
 A customizable and feature-rich carousel component for React.
@@ -89,4 +89,3 @@ customStyles={{
   slide: { border: "2px solid red" },
 }}
 ```
->>>>>>> 74f302f (First Commit)
