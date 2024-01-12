@@ -1,7 +1,3 @@
-# react-featured-carousel
-
-# A customizable and feature-rich carousel component for React.
-
 # React Featured Carousel
 
 A customizable and feature-rich carousel component for React.
